@@ -46,10 +46,6 @@ This is a simple chat application built using Node.js, Express, and Socket.IO. T
 
 ![Chat Application](./image.png)
 
-## Author
-
--   [Hitansh Thakur]("https://github.com/hitansh-thakur")
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
